@@ -1,2 +1,0 @@
-# henindemocoin
-demo cryptocurrency
